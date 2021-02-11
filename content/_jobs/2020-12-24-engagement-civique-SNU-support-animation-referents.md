@@ -1,7 +1,7 @@
 ---
 roles: un.e Chargé.e d’assistance aux utilisateurs et d’animation des référents Service National Universel
 startup: engagement-civique
-open: false
+open: open
 title: Chargé(e) d’assistance aux utilisateurs et d’animation des référents Service National Universel
 ---
 
@@ -62,7 +62,7 @@ Expérience professionnelle sur une mission similaire, du type **Responsable Sup
 - L’animation de communautés et d’ateliers d'appropriation 
 
 ## 📝 Modalités
-Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage janvier 2021.
+Poste ouvert pour un indépendant ou une indépendante pour un premier contrat de 6 mois renouvelable (à 4 jours par semaine minimum). Le télétravail est possible. Démarrage Lundi 15 février 2021.
 
 ## 🚀 Candidater
 Expliquez-nous pourquoi vous avez envie de rejoindre la Startup d'État Engagement Civique et envoyez-nous votre LinkedIn, CV ou GitHub, le tout à [gabrielle.bouxin@beta.gouv.fr](mailto:gabrielle.bouxin@beta.gouv.fr) et à [joe.achkar@beta.gouv.fr](mailto:joe.achkar@beta.gouv.fr).
