@@ -22,7 +22,7 @@ La validation est le coeur de métier de DossierFacile ; sa bonne exécution et 
 L’operateur‧rice de validation est sous la responsabilité directe du responsable des opérations.
 
 # Missions
-_Poste ouvert le 17/02/2021_
+_Poste ouvert le 16/02/2021_
 
 Aucune qualification particulière n’est nécessaire, seulement de l’efficacité et beaucoup d’organisation, de l’audace et de la motivation.\
 Les chargé‧e‧s de déploiement stagiaires sont amené‧e‧s à :
@@ -31,12 +31,6 @@ Les chargé‧e‧s de déploiement stagiaires sont amené‧e‧s à :
 - Définir des priorités stratégiques avec le chef de produit
 - Participer aux évènements de la communauté beta.gouv.fr
 - Produire du contenu pour le site
-
-# Compétences souhaitées
-- rigueur, méthode, patience, concentration et intérêt pour un travail pointilleux
-- goût pour le travail en équipe
-- une expérience dans une agence immobilière ou dans des fonctions similaires serait idéale
-- esprit d'initiative pour améliorer son outil de travail
 
 **Statut** : Idéalement, stage ou alternance, mais d’autres statuts peuvent être envisagés au cas par cas.\
 **Modalités de travail** : Le rythme de travail est un temps plein pour un stagiaire ou à mi-temps pour une alternance, le télétravail est la norme mais une présence ponctuelle dans les locaux à La Défense est souhaitable lors d’ateliers et/ou réunions (test utilisateur, démonstration, rétrospective et planification). L’équipe suit une méthode agile avec des phases de retours fréquents de ses utilisateurs finaux.\
